@@ -61,7 +61,7 @@ SkillForge/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SkillForge.git
+   git clone https://github.com/ramanrishit448-RR/SkillForge.git
    cd SkillForge
    ```
 
