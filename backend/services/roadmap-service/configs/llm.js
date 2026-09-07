@@ -4,7 +4,7 @@ dotenv.config();
 import { ChatGroq } from "@langchain/groq";
 
 const llm = new ChatGroq({
-  model: "llama3-70b-8192",
+  model: "openai/gpt-oss-120b",
   temperature: 0.2,
   maxTokens: 4000,
   maxRetries: 2,
