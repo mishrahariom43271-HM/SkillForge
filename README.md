@@ -133,7 +133,6 @@ SkillForge uses a distributed microservices pattern orchestrated via an API Gate
   - **LangChain & LangGraph**: Multi-step stateful interview evaluation and dynamic roadmap construction
   - **Groq SDK (LLaMA 3.3 / OSS Models)**: Ultra-low latency inference for live conversational interviews
   - **Google Generative AI (Gemini 2.0)**: Deep document reasoning and ATS resume parsing
-  - **Qdrant Vector Database**: High-dimension vector storage and cosine similarity scoring for resume embeddings
   - **Tavily Search API & YouTube Data API v3**: Autonomous internet resource retrieval for live course roadmaps
 - **Authentication**: Firebase Admin SDK (`firebase-admin`) with private service credentials
 - **Billing & Payments**: Razorpay Node SDK with HMAC-SHA256 signature verification
