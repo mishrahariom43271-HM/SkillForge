@@ -1,5 +1,4 @@
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b965e656-4852-4ee9-8c7c-6ac7b30de9dc" />
-
+<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/22629998-66c6-4b45-bf74-5b8f60bc726e" />
 
 # <p align="center">⚡ SkillForge</p>
 
