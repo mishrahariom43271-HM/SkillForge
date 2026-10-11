@@ -96,8 +96,8 @@ SkillForge uses a distributed microservices pattern orchestrated via an API Gate
                                                     │                   │                    │                  │                 │
                                                     ▼                   ▼                    ▼                  ▼                 ▼
                                             ┌───────────────┐   ┌───────────────┐    ┌───────────────┐  ┌───────────────┐ ┌───────────────┐
-                                            │ Firebase Admin│   │ Razorpay SDK  │    │LangChain/Groq │  │ Qdrant Vector │ │LangGraph Agent│
-                                            │ MongoDB (User)│   │MongoDB(Billing│    │MongoDB(Interv)│  │ Gemini / Mongo│ │Tavily/YouTube │
+                                            │ Clerk Admin   │   │ Razorpay SDK  │    │LangChain/Groq │  │Gemini / Mongo │ │LangGraph Agent│
+                                            │ MongoDB (User)│   │MongoDB(Billing│    │MongoDB(Interv)│  │               │ │Tavily/YouTube │
                                             └───────────────┘   └───────────────┘    └───────────────┘  └───────────────┘ └───────────────┘
 ```
 
